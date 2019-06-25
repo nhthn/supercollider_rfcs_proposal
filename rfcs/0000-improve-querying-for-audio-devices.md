@@ -1,6 +1,6 @@
 - Title: Improve querying for available audio devices
 - Date proposed: June 25, 2019
-- RFC PR: https://github.com/snappizz/rfcs/pull/0000
+- RFC PR: https://github.com/dyfer/rfcs/pull/1
 - SuperCollider issue: https://github.com/supercollider/supercollider/issues/1557, https://github.com/supercollider/supercollider/issues/271
 
 # Summary
